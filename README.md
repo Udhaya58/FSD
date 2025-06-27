@@ -28,7 +28,7 @@ A secure RESTful API built using **Spring Boot** that allows authenticated users
 - **JWT (JSON Web Token)**
 - **Spring Data JPA**
 - **Hibernate**
-- **H2 / MySQL Database**
+- **MySQL Database**
 - **Swagger - Springdoc OpenAPI**
 
 ---
